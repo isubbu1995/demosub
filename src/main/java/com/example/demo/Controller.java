@@ -2,7 +2,8 @@ package com.example.demo;
 
 public class Controller {
 
-    public String test(){
+    public String nottestmain(){
         return "hai there";
     }
 }
+
