@@ -10,6 +10,7 @@ public class DemoApplication {
 		System.out.println("first line added");
 		System.out.println("first line added by jyothi");
 		SpringApplication.run(DemoApplication.class, args);
+		System.out.println("from origins/main");
 	}
 
 }
